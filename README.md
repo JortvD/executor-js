@@ -1,1 +1,1 @@
-ijo-executor
+executor-js
