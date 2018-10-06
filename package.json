@@ -1,0 +1,16 @@
+{
+	"name": "executor-js",
+	"version": "0.0.1",
+	"description": "The JS executor module for IJO.",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/JortvD/executor-js.git"
+	},
+	"author": "IJO",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/JortvD/executor-js/issues"
+	},
+	"homepage": "https://github.com/JortvD/executor-js#readme"
+}
